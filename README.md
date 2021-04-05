@@ -1,2 +1,2 @@
 # ProspectorSolitaire
-first time
+https://github.com/jiacoba/ProspectorSolitaire
